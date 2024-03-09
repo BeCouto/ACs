@@ -1,6 +1,6 @@
 # AC1
 # Equação de segundo grau:
-#ax^2+bx = 0
+# ax^2+bx = 0
 # Aluno: Gabriel Couto Barros
 
 # Valores dos coeficientes
