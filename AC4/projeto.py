@@ -49,7 +49,7 @@ def calcular_media(nota1, nota2, ac):
     Retorna a média da disciplina, arredondada em duas casas decimais.
     M = (AP1 + AP2) * 0.4 + AC * 0.2
     """
-    return (nota1 + nota2) * 0.4 + 0.2 * ac
+    return round((nota1 + nota2) * 0.4 + 0.2 * ac,2)
 
 def aluno_foi_aprovado(media):
     """
