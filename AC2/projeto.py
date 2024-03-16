@@ -20,7 +20,7 @@ def eq_seg_grau(a, b, c):
 a = int(input("Informe o parâmetro a da equação: "))
 b = int(input("Informe o parâmetro b da equação: "))
 c = int(input("Informe o parâmetro c da equação: "))
-
+# Valores das raízes 
 raizes = eq_seg_grau(a, b, c)
 print("As raízes são:", raizes)
 
