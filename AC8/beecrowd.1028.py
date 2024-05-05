@@ -1,3 +1,5 @@
+# Aluno: Gabriel Couto Barros
+# matricula 202401000671
 while True:
     try:
         N = int(input())
