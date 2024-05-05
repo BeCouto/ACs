@@ -1,3 +1,5 @@
+# Aluno: Gabriel Couto Barros
+# matricula 202401000671
 soma=0
 a=int(input())
 b=int(input())
