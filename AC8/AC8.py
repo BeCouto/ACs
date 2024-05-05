@@ -24,13 +24,6 @@ while True:
 
 
 """
-Programação Estruturada
-2024.1
-05/05/2024
-
-Gabriel Couto Barros
-Ciência de Dados e IA, turma: 8001
-
 Exercício 2 - AC8 - beecrowd.1087
 """
 while True:
@@ -48,13 +41,6 @@ while True:
 
 
 """
-Programação Estruturada
-2024.1
-05/05/2024
-
-Gabriel Couto Barros
-Ciência de Dados e IA, turma: 8001
-
 Exercício 3 - AC8 - beecrowd.1161
 """
 def le_info():
@@ -81,13 +67,6 @@ while True:
 
 
 """
-Programação Estruturada
-2024.1
-05/05/2024
-
-Gabriel Couto Barros
-Ciência de Dados e IA, turma: 8001
-
 Exercício 4 - AC8 - beecrowd.1170 
 """
 
@@ -103,13 +82,6 @@ for _ in range(n):
 
 
 """
-Programação Estruturada
-2024.1
-05/05/2024
-
-Gabriel Couto Barros
-Ciência de Dados e IA, turma: 8001
-
 Exercício 5 - AC8 - beecrowd.1171 
 """
 qtd = int(input())
@@ -126,13 +98,6 @@ for elemento in sorted(unicos):
 
 
 """
-Programação Estruturada
-2024.1
-05/05/2024
-
-Gabriel Couto Barros
-Ciência de Dados e IA, turma: 8001
-
 Exercício 6 - AC8 - beecrowd.1221 
 """
 import math
@@ -156,13 +121,6 @@ for _ in range(n):
 
 
 """
-Programação Estruturada
-2024.1
-05/05/2024
-
-Gabriel Couto Barros
-Ciência de Dados e IA, turma: 8001
-
 Exercício 7 - AC8 - beecrowd.1329 
 """
 while True:
@@ -178,13 +136,6 @@ while True:
 
 
 """
-Programação Estruturada
-2024.1
-05/05/2024
-
-Gabriel Couto Barros
-Ciência de Dados e IA, turma: 8001
-
 Exercício 8 - AC8 - beecrowd.1555 
 """
 casos = int(input())
