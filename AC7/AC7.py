@@ -23,7 +23,7 @@ print(soma)
 
 
 """
-Exercícios AC6 - beecrowd.1173
+Exercícios AC7 - beecrowd.1173
 """
 n= int(input())
 print("N[%d] = %d" %(0,n))
@@ -33,7 +33,7 @@ for i in range(1,10):
 
 
 """
-Exercícios AC6 - beecrowd.1180
+Exercícios AC7 - beecrowd.1180
 """
 n = int(input())
 lista = list(map(int, input().split()))
@@ -50,7 +50,7 @@ print("Posicao: %d" % p)
 
 
 """
-Exercícios AC6 - beecrowd.1182
+Exercícios AC7 - beecrowd.1182
 """
 l = int(input())
 opera = input()
@@ -81,7 +81,7 @@ if opera == 'M':
 
 
 """
-Exercícios AC6 - beecrowd.1244
+Exercícios AC7 - beecrowd.1244
 """    
 n = int(input())
 while n > 0:
@@ -96,7 +96,7 @@ while n > 0:
 
 
 """
-Exercícios AC6 - beecrowd.1065
+Exercícios AC7 - beecrowd.1065
 """ 
 count=0
 for i in range(5):
@@ -107,7 +107,7 @@ print("{} valores pares".format(count))
 
 
 """
-Exercícios AC6 - beecrowd.1408
+Exercícios AC7 - beecrowd.1408
 """
 a= float(input())
 if (0<a<=400):
